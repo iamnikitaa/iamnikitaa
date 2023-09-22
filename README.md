@@ -8,7 +8,9 @@
     <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="200px" align="right">
   </a>
 </div>
+
 </br>
+
 ## :love_letter: Reach me:
 
 <div> 
