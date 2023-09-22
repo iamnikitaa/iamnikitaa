@@ -13,7 +13,7 @@
 
 ## :love_letter: Reach me:
 
-<div align="right"> 
+<div > 
 
   <a href="mailto:iamnikita004@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-23E4405F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
