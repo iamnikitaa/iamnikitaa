@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/nikita7526">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nikita7526&show_icons=true&theme=dracula&include_all_commits=true&count_private=true align="left"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nikita7526&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" align="left"/>
     <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="200px" align="right">
   </a>
 </div>
