@@ -1,4 +1,4 @@
-### Hello! :Web Dev!:👩🏻‍💻
+### Hello! :Web Dev:👩🏻‍💻
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=nikita7526">
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" align="right">
