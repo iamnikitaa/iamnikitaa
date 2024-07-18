@@ -1,7 +1,5 @@
 # Hi there! 👋 I'm [Nikita]
 
-![GitHub Banner](https://yourimageurl.com/banner.png)
-
 I'm a passionate developer with a knack for creating intuitive and engaging web applications. I love working with modern technologies and continuously learning new skills.
 
 ![Working](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
