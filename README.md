@@ -14,6 +14,8 @@ I'm a passionate developer with a knack for creating intuitive and engaging web 
 - 🎵 Enjoying: The rhythms of my favorite music tracks.
 - 📖 Immersing in: Captivating books and literature.
 
+![Coding](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+
 ## 🛠️ Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
