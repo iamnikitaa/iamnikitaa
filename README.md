@@ -32,6 +32,6 @@ I'm a passionate developer with a knack for creating intuitive and engaging web 
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nikita7526&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=iamnikitaa&show_icons=true&theme=radical)
 
 ⭐️ From [Nikita](https://github.com/nikita7526)
