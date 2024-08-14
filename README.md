@@ -5,11 +5,7 @@ I'm a passionate developer with a knack for creating intuitive and engaging web 
 ## 🚀 About Me
 
 - 🌱 Learning: Advanced **Machine Learning** techniques and **Web Applications**.
-
-- 📚 Interested in: **Fashion tech**, **AI**, and **Front-end Development**.
-
-- 🎨 Building: **Interactive UGC platforms** for my online shopping app.
-
+  
 - 🎵 Enjoying: The rhythms of my favorite music tracks.
 
 - 📖 Immersing in: Captivating books and literature.
@@ -34,4 +30,4 @@ I'm a passionate developer with a knack for creating intuitive and engaging web 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=iamnikitaa&show_icons=true&theme=radical)
 
-⭐️ From [Nikita](https://github.com/nikita7526)
+⭐️ From [Nikita](https:/iamnikitaa.github.io/iamnikitaa)
