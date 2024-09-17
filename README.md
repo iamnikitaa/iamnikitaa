@@ -1,5 +1,5 @@
 ## 🌸 Hey there, I'm Nikita! 👋
-[My portfolio website](#https://iamnikitaa.github.io/)
+[My portfolio website](https://iamnikitaa.github.io/)
 
 I'm a passionate **web developer** and a curious **learner** always exploring new horizons in **coding** and **tech**. From tinkering with frontend frameworks to crafting AI-driven applications.
 
