@@ -1,8 +1,6 @@
-## 🌸 Hey there, I'm Nikita Kumari! 👋
+## 🌸 Hey there, I'm Nikita! 👋
 
-Welcome to my cozy little corner on GitHub! 🎉
-
-I'm a passionate **web developer** and a curious **learner** always exploring new horizons in **coding** and **tech**. From tinkering with frontend frameworks to crafting AI-driven applications, I'm all about creating fun and meaningful things! 🌟
+I'm a passionate **web developer** and a curious **learner** always exploring new horizons in **coding** and **tech**. From tinkering with frontend frameworks to crafting AI-driven applications.
 
 ### ✨ A Glimpse of What I Do:
 - 🎨 **Web Wizardry** with Svelte, React, Tailwind CSS & more!
