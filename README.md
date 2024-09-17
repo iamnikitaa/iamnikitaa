@@ -1,4 +1,5 @@
 ## 🌸 Hey there, I'm Nikita! 👋
+[My portfolio website](#iamnikitaa.github.io)
 
 I'm a passionate **web developer** and a curious **learner** always exploring new horizons in **coding** and **tech**. From tinkering with frontend frameworks to crafting AI-driven applications.
 
@@ -6,11 +7,7 @@ I'm a passionate **web developer** and a curious **learner** always exploring ne
 - 🎨 **Web Wizardry** with Svelte, React, Tailwind CSS & more!
 - 🤖 **AI Adventures** in data analytics, chatbots, and recommendation systems.
 - 🌱 Always **learning** & growing in **DSA** and **Python**!
-- 🛠 Building projects for startups, universities, healthcare, and freelancing platforms.
-
-### 🍄 Fun Facts About Me:
-- 🎶 Music is my forever jam.
-- 🌈 I thrive in pastel themes (yes, I have a thing for aesthetics! 💖).
+- 🛠 Building projects for startups, universities, healthcare, and freelancing platforms
 
 ### 🌐 Let's Connect:
 - 💼 [LinkedIn](#linkedin.com/in/nikita-kumari-09bb85262)
