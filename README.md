@@ -16,4 +16,6 @@ I'm a passionate **web developer** and a curious **learner** always exploring ne
 - 💼 [LinkedIn](#linkedin.com/in/nikita-kumari-09bb85262)
 - 📧 [Email](#iamnikita004@gmail.com)
 
+[Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-iamnikitaa&show_icons=true&theme=tokyonight)
+
 Thank you for stopping by! 🌻 Feel free to explore my projects, contribute, or just say hi! 😊✨
